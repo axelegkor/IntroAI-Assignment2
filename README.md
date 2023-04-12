@@ -1,3 +1,5 @@
+### This is an assignment in the NTNU course *TDT4136 - Introduction to Artificial Intelligence*
+
 ## Running the code
 The code is run by simply running either the Part1.py or Part2.py. The code will return a list of the optimal path to the console, and open a PNG file, visualizing the best path. Make sure the file you're running is in the same folder as Map.py, Samfundet_map_1.csv Samfundet_map_2.csv, Samfundet_map_Edgar_full.csv. The csv files are the same as provided by the problem, while the Map.py file has been modified, so make sure to use the one handed in along this file.
 
